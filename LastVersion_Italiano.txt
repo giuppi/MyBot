@@ -1,4 +1,4 @@
 [general]
-version    = "v5.3.2"
-messagenew = "Fix donate and train troops&Spells\nhttps://github.com/MyBotRun/MyBot/wiki/ChangeLog\n\n- Don't be a stranger, stop by our community forums and join in on the revolution\n\nhttps://mybot.run\n\n Always free and open source."
-messageold = "A new version of MyBot (v5.3.2) is available!\nPlease download the latest from:\nhttps://mybot.run"
+version    = "v7.9"
+messagenew = "Funziona con l'aggiornamento di Jul 2020!\nCon nuove strategie di farming\n Nuove macchine d'assedio\n Per avere più informazioni, vai a \n https://mybot.run \n Sempre gratis e open source."
+messageold = "Una nuova versione di MyBot (v7.9) è disponibile!\nPer favore, scarica la nuova versione da:\nhttps://mybot.run"
